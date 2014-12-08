@@ -1,0 +1,11 @@
+#barchart {
+	border: 2px blue dashed;
+}
+
+#piechart {
+	border: 2px red dashed;
+}
+
+#linechart {
+	border: 2px green dashed;
+}
