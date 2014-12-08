@@ -2,14 +2,15 @@
 ***
 ####Ivan Kryukov
 #####_December 8, 2014_
+#####Slides with [reveal.js](http://lab.hakim.se/reveal-js/)
 
 ---
-###Bioinformatics sucks
+###Bioinformatics is hard
 - Too much data
 - Too little time
 ___
-###Data analysis does not have to be heard
-- We are not the only ones with the issues
+###Data analysis does not have to be hard
+- We are not the only ones with having data issues
 - We should come together as a community
 - We should focus more on our tools being accessible
 
@@ -69,3 +70,59 @@ ___
 ```javascript
 JSON.parse('in.json');
 ```
+
+---
+###SVG
+
+**S**calable **V**ector **G**rapics
+
+- Adobe Illustrator
+- Inkscape
+
+___
+
+###Front-end Web
+
+- HTML
+- CSS
+- SVG
+- javascript
+
+___
+
+###D3
+
+####[Data Driven Documents](http://d3js.org)
+
+___
+
+###C3
+####[Comfortable Customizable Controllable](http://c3js.org/)
+
+---
+#Showcase
+___
+##[Polar clock](http://bl.ocks.org/mbostock/1096355)
+___
+##[Chord diagrams](http://bl.ocks.org/mbostock/1046712)
+___
+##[Quicksort](http://bl.ocks.org/mbostock/d8e15a0ab7f85818a5bd)
+___
+##[Baseball](http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball)
+___
+##[Flow](http://bost.ocks.org/mike/sankey/)
+___
+##[Realtime data](http://square.github.io/cubism/)
+
+---
+#Applications
+___
+##[Kablammo!](http://kablammo.wasmuthlab.org/)
+
+___
+
+##[Palantir](file://Palantir/visualization/index.html)
+
+---
+
+#Tutorial
