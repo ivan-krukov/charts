@@ -1,4 +1,4 @@
-###Data, Javascript and visuals
+###Data, Javascript and visuals and stuff
 ***
 ####Ivan Kryukov
 #####_December 8, 2014_
